@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat";
+}
+
+.embrulho {
+    height: 100vh;
+    width: 100vw;
+}
+
+header {
+    margin-top: 60px;
+    margin-left: 60px;
+    color: #989D9C;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    word-spacing: 15px;
+}
+
+.button1 {
+    width: 90px;
+    border-radius: 30px;
+    background-color: rgb(116, 54, 101);
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    cursor: pointer;
+    border: none;
+}
+
+img {
+    width: 568px;
+    height: 394.694px;
+    margin-left: 100px;
+    margin-top: 130px;
+}
+
+.left {
+    display: inline-block;
+}
+
+.right {
+    display: inline-block;
+}
+
+h1 {
+    color: #515151;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+h2 {
+    color: #515151;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+p {
+    width: 515px;
+    margin-top: 30px;
+    color: #848484;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.button2 {
+    margin: 30px;
+    border-radius: 20.5px;
+    background: #ADFF00;
+    width: 239px;
+    height: 64px;
+    flex-shrink: 0;
+    cursor: pointer;
+    color: #000;
+    font-family: Montserrat;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+}
+
+@media screen and (max-width: 900px){
+
+header {
+    display: none;
+}
+
+h1 {
+    margin-top: 50px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 900;
+}
+
+h2 {
+     text-align: center;
+    width: 100%;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.button2 {
+    text-align: center;
+}
+img{
+    margin-left: 0%;
+    width: 100%;
+    height: auto;
+}
+p{
+    display: none;
+}
+.right{
+    margin-left: 15%;
+}
+}
