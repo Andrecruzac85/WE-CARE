@@ -24,4 +24,4 @@ O layout do site foi pensado para funcionar bem em dispositivos móveis e deskto
 ## DESKTOP
 <img src="https://github.com/Andrecruzac85/WE-CARE/blob/main/assets/wecare%20desktop.png?raw=true"/>
 ## Smartphone
-<img src="https://github.com/Andrecruzac85/WE-CARE/blob/main/assets/wecare%20desktop.png?raw=true">
+<img src="https://github.com/Andrecruzac85/WE-CARE/blob/main/assets/wecare%20cell.png?raw=true">
